@@ -1,7 +1,7 @@
 package com.testng.java;
 
 import org.testng.annotations.Test;
-
+int j=20
 
 public class TestApp {
 	@Test
